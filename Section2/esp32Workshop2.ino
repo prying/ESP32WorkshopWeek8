@@ -1,8 +1,3 @@
-/* Title
- * Flynn Harrison
- * 26/04/2019
- */
-#include "secret.h"
 #include <WiFi.h>
 
 // The size of the buffer to store the response

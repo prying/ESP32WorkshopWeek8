@@ -1,8 +1,3 @@
-/* Title
- * Flynn Harrison
- * 26/04/2019
- */
-#include "secret.h"
 #include <WiFi.h>
 #include <string.h>
 #include <ArduinoJson.h>
